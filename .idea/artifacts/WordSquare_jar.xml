@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="WordSquare:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/WordSquare_jar</output-path>
+    <root id="archive" name="WordSquare.jar">
+      <element id="module-output" name="WordSquare" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/dictionary.txt" />
+    </root>
+  </artifact>
+</component>
