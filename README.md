@@ -6,11 +6,9 @@ Will use the length of word and series of letter to create a wordsquare, were th
 
 e.g.
 
-'''
 java -jar WordSquare.jar 4 eeeeddoonnnsssrv
 
 rose
 oven
 send
 ends
-'''
